@@ -1,0 +1,112 @@
+[
+  {
+    "ContainingType": "task_chat.Controllers.LoginUtenteController",
+    "Method": "Login",
+    "RelativePath": "LoginUtente/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "task_chat.Models.UserLogin",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "task_chat.Controllers.MessaggioController",
+    "Method": "InviaMessaggio",
+    "RelativePath": "Messaggio/invia/messaggio",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "oMex",
+        "Type": "task_chat.DTO.MessaggioDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "task_chat.Utils.Risposta",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "task_chat.Controllers.StanzaController",
+    "Method": "CreaStanza",
+    "RelativePath": "Stanza/genera/stanza",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "oSta",
+        "Type": "task_chat.DTO.StanzaDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "task_chat.Utils.Risposta",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "task_chat.Controllers.UtenteController",
+    "Method": "Delete",
+    "RelativePath": "Utente/elimina/{varCod}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "varCod",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "task_chat.Controllers.UtenteController",
+    "Method": "InserisciUtente",
+    "RelativePath": "Utente/registrati",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "oUte",
+        "Type": "task_chat.DTO.UtenteDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "task_chat.Utils.Risposta",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

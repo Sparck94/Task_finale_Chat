@@ -1,0 +1,331 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Andrea\\source\\repos\\task_chat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC09576D-5E98-4FE1-A20A-566CED278EB9}|task_chat\\task_chat.csproj|c:\\users\\andrea\\source\\repos\\task_chat\\task_chat\\dto\\stanzadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC09576D-5E98-4FE1-A20A-566CED278EB9}|task_chat\\task_chat.csproj|solutionrelative:task_chat\\dto\\stanzadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC09576D-5E98-4FE1-A20A-566CED278EB9}|task_chat\\task_chat.csproj|c:\\users\\andrea\\source\\repos\\task_chat\\task_chat\\models\\messaggio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC09576D-5E98-4FE1-A20A-566CED278EB9}|task_chat\\task_chat.csproj|solutionrelative:task_chat\\models\\messaggio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC09576D-5E98-4FE1-A20A-566CED278EB9}|task_chat\\task_chat.csproj|c:\\users\\andrea\\source\\repos\\task_chat\\task_chat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC09576D-5E98-4FE1-A20A-566CED278EB9}|task_chat\\task_chat.csproj|solutionrelative:task_chat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC09576D-5E98-4FE1-A20A-566CED278EB9}|task_chat\\task_chat.csproj|c:\\users\\andrea\\source\\repos\\task_chat\\task_chat\\repos\\utenterepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC09576D-5E98-4FE1-A20A-566CED278EB9}|task_chat\\task_chat.csproj|solutionrelative:task_chat\\repos\\utenterepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC09576D-5E98-4FE1-A20A-566CED278EB9}|task_chat\\task_chat.csproj|c:\\users\\andrea\\source\\repos\\task_chat\\task_chat\\controllers\\loginutentecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC09576D-5E98-4FE1-A20A-566CED278EB9}|task_chat\\task_chat.csproj|solutionrelative:task_chat\\controllers\\loginutentecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC09576D-5E98-4FE1-A20A-566CED278EB9}|task_chat\\task_chat.csproj|c:\\users\\andrea\\source\\repos\\task_chat\\task_chat\\repos\\stanzarepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC09576D-5E98-4FE1-A20A-566CED278EB9}|task_chat\\task_chat.csproj|solutionrelative:task_chat\\repos\\stanzarepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC09576D-5E98-4FE1-A20A-566CED278EB9}|task_chat\\task_chat.csproj|c:\\users\\andrea\\source\\repos\\task_chat\\task_chat\\services\\stanzaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC09576D-5E98-4FE1-A20A-566CED278EB9}|task_chat\\task_chat.csproj|solutionrelative:task_chat\\services\\stanzaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC09576D-5E98-4FE1-A20A-566CED278EB9}|task_chat\\task_chat.csproj|c:\\users\\andrea\\source\\repos\\task_chat\\task_chat\\models\\stanza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC09576D-5E98-4FE1-A20A-566CED278EB9}|task_chat\\task_chat.csproj|solutionrelative:task_chat\\models\\stanza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC09576D-5E98-4FE1-A20A-566CED278EB9}|task_chat\\task_chat.csproj|c:\\users\\andrea\\source\\repos\\task_chat\\task_chat\\controllers\\stanzacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC09576D-5E98-4FE1-A20A-566CED278EB9}|task_chat\\task_chat.csproj|solutionrelative:task_chat\\controllers\\stanzacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC09576D-5E98-4FE1-A20A-566CED278EB9}|task_chat\\task_chat.csproj|c:\\users\\andrea\\source\\repos\\task_chat\\task_chat\\repos\\messaggiorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC09576D-5E98-4FE1-A20A-566CED278EB9}|task_chat\\task_chat.csproj|solutionrelative:task_chat\\repos\\messaggiorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC09576D-5E98-4FE1-A20A-566CED278EB9}|task_chat\\task_chat.csproj|c:\\users\\andrea\\source\\repos\\task_chat\\task_chat\\dto\\messaggiodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC09576D-5E98-4FE1-A20A-566CED278EB9}|task_chat\\task_chat.csproj|solutionrelative:task_chat\\dto\\messaggiodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC09576D-5E98-4FE1-A20A-566CED278EB9}|task_chat\\task_chat.csproj|c:\\users\\andrea\\source\\repos\\task_chat\\task_chat\\services\\messaggioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC09576D-5E98-4FE1-A20A-566CED278EB9}|task_chat\\task_chat.csproj|solutionrelative:task_chat\\services\\messaggioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC09576D-5E98-4FE1-A20A-566CED278EB9}|task_chat\\task_chat.csproj|c:\\users\\andrea\\source\\repos\\task_chat\\task_chat\\dto\\utentedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC09576D-5E98-4FE1-A20A-566CED278EB9}|task_chat\\task_chat.csproj|solutionrelative:task_chat\\dto\\utentedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC09576D-5E98-4FE1-A20A-566CED278EB9}|task_chat\\task_chat.csproj|c:\\users\\andrea\\source\\repos\\task_chat\\task_chat\\services\\utenteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC09576D-5E98-4FE1-A20A-566CED278EB9}|task_chat\\task_chat.csproj|solutionrelative:task_chat\\services\\utenteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC09576D-5E98-4FE1-A20A-566CED278EB9}|task_chat\\task_chat.csproj|c:\\users\\andrea\\source\\repos\\task_chat\\task_chat\\models\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC09576D-5E98-4FE1-A20A-566CED278EB9}|task_chat\\task_chat.csproj|solutionrelative:task_chat\\models\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC09576D-5E98-4FE1-A20A-566CED278EB9}|task_chat\\task_chat.csproj|c:\\users\\andrea\\source\\repos\\task_chat\\task_chat\\controllers\\messaggiocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC09576D-5E98-4FE1-A20A-566CED278EB9}|task_chat\\task_chat.csproj|solutionrelative:task_chat\\controllers\\messaggiocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC09576D-5E98-4FE1-A20A-566CED278EB9}|task_chat\\task_chat.csproj|c:\\users\\andrea\\source\\repos\\task_chat\\task_chat\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EC09576D-5E98-4FE1-A20A-566CED278EB9}|task_chat\\task_chat.csproj|solutionrelative:task_chat\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC09576D-5E98-4FE1-A20A-566CED278EB9}|task_chat\\task_chat.csproj|c:\\users\\andrea\\source\\repos\\task_chat\\task_chat\\controllers\\utentecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC09576D-5E98-4FE1-A20A-566CED278EB9}|task_chat\\task_chat.csproj|solutionrelative:task_chat\\controllers\\utentecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC09576D-5E98-4FE1-A20A-566CED278EB9}|task_chat\\task_chat.csproj|c:\\users\\andrea\\source\\repos\\task_chat\\task_chat\\utils\\risposta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC09576D-5E98-4FE1-A20A-566CED278EB9}|task_chat\\task_chat.csproj|solutionrelative:task_chat\\utils\\risposta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StanzaRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Andrea\\source\\repos\\task_chat\\task_chat\\Repos\\StanzaRepo.cs",
+              "RelativeDocumentMoniker": "task_chat\\Repos\\StanzaRepo.cs",
+              "ToolTip": "C:\\Users\\Andrea\\source\\repos\\task_chat\\task_chat\\Repos\\StanzaRepo.cs",
+              "RelativeToolTip": "task_chat\\Repos\\StanzaRepo.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAA9wBoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T08:40:57.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StanzaService.cs",
+              "DocumentMoniker": "C:\\Users\\Andrea\\source\\repos\\task_chat\\task_chat\\Services\\StanzaService.cs",
+              "RelativeDocumentMoniker": "task_chat\\Services\\StanzaService.cs",
+              "ToolTip": "C:\\Users\\Andrea\\source\\repos\\task_chat\\task_chat\\Services\\StanzaService.cs",
+              "RelativeToolTip": "task_chat\\Services\\StanzaService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T08:53:50.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginUtenteController.cs",
+              "DocumentMoniker": "C:\\Users\\Andrea\\source\\repos\\task_chat\\task_chat\\Controllers\\LoginUtenteController.cs",
+              "RelativeDocumentMoniker": "task_chat\\Controllers\\LoginUtenteController.cs",
+              "ToolTip": "C:\\Users\\Andrea\\source\\repos\\task_chat\\task_chat\\Controllers\\LoginUtenteController.cs",
+              "RelativeToolTip": "task_chat\\Controllers\\LoginUtenteController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowBUAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T13:28:35.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UtenteRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Andrea\\source\\repos\\task_chat\\task_chat\\Repos\\UtenteRepo.cs",
+              "RelativeDocumentMoniker": "task_chat\\Repos\\UtenteRepo.cs",
+              "ToolTip": "C:\\Users\\Andrea\\source\\repos\\task_chat\\task_chat\\Repos\\UtenteRepo.cs",
+              "RelativeToolTip": "task_chat\\Repos\\UtenteRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAG0AAABvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T12:37:44.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UtenteService.cs",
+              "DocumentMoniker": "C:\\Users\\Andrea\\source\\repos\\task_chat\\task_chat\\Services\\UtenteService.cs",
+              "RelativeDocumentMoniker": "task_chat\\Services\\UtenteService.cs",
+              "ToolTip": "C:\\Users\\Andrea\\source\\repos\\task_chat\\task_chat\\Services\\UtenteService.cs",
+              "RelativeToolTip": "task_chat\\Services\\UtenteService.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAwwAkAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T12:40:47.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UtenteDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Andrea\\source\\repos\\task_chat\\task_chat\\DTO\\UtenteDTO.cs",
+              "RelativeDocumentMoniker": "task_chat\\DTO\\UtenteDTO.cs",
+              "ToolTip": "C:\\Users\\Andrea\\source\\repos\\task_chat\\task_chat\\DTO\\UtenteDTO.cs",
+              "RelativeToolTip": "task_chat\\DTO\\UtenteDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T20:10:20.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MessaggioRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Andrea\\source\\repos\\task_chat\\task_chat\\Repos\\MessaggioRepo.cs",
+              "RelativeDocumentMoniker": "task_chat\\Repos\\MessaggioRepo.cs",
+              "ToolTip": "C:\\Users\\Andrea\\source\\repos\\task_chat\\task_chat\\Repos\\MessaggioRepo.cs",
+              "RelativeToolTip": "task_chat\\Repos\\MessaggioRepo.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwAsAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T10:13:02.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MessaggioService.cs",
+              "DocumentMoniker": "C:\\Users\\Andrea\\source\\repos\\task_chat\\task_chat\\Services\\MessaggioService.cs",
+              "RelativeDocumentMoniker": "task_chat\\Services\\MessaggioService.cs",
+              "ToolTip": "C:\\Users\\Andrea\\source\\repos\\task_chat\\task_chat\\Services\\MessaggioService.cs",
+              "RelativeToolTip": "task_chat\\Services\\MessaggioService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T10:28:47.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MessaggioDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Andrea\\source\\repos\\task_chat\\task_chat\\DTO\\MessaggioDTO.cs",
+              "RelativeDocumentMoniker": "task_chat\\DTO\\MessaggioDTO.cs",
+              "ToolTip": "C:\\Users\\Andrea\\source\\repos\\task_chat\\task_chat\\DTO\\MessaggioDTO.cs",
+              "RelativeToolTip": "task_chat\\DTO\\MessaggioDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T10:29:09.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Stanza.cs",
+              "DocumentMoniker": "C:\\Users\\Andrea\\source\\repos\\task_chat\\task_chat\\Models\\Stanza.cs",
+              "RelativeDocumentMoniker": "task_chat\\Models\\Stanza.cs",
+              "ToolTip": "C:\\Users\\Andrea\\source\\repos\\task_chat\\task_chat\\Models\\Stanza.cs",
+              "RelativeToolTip": "task_chat\\Models\\Stanza.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T11:01:38.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Andrea\\source\\repos\\task_chat\\task_chat\\Program.cs",
+              "RelativeDocumentMoniker": "task_chat\\Program.cs",
+              "ToolTip": "C:\\Users\\Andrea\\source\\repos\\task_chat\\task_chat\\Program.cs",
+              "RelativeToolTip": "task_chat\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T20:21:10.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Messaggio.cs",
+              "DocumentMoniker": "C:\\Users\\Andrea\\source\\repos\\task_chat\\task_chat\\Models\\Messaggio.cs",
+              "RelativeDocumentMoniker": "task_chat\\Models\\Messaggio.cs",
+              "ToolTip": "C:\\Users\\Andrea\\source\\repos\\task_chat\\task_chat\\Models\\Messaggio.cs",
+              "RelativeToolTip": "task_chat\\Models\\Messaggio.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T08:38:14.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StanzaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Andrea\\source\\repos\\task_chat\\task_chat\\DTO\\StanzaDTO.cs",
+              "RelativeDocumentMoniker": "task_chat\\DTO\\StanzaDTO.cs",
+              "ToolTip": "C:\\Users\\Andrea\\source\\repos\\task_chat\\task_chat\\DTO\\StanzaDTO.cs",
+              "RelativeToolTip": "task_chat\\DTO\\StanzaDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T08:59:09.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StanzaController.cs",
+              "DocumentMoniker": "C:\\Users\\Andrea\\source\\repos\\task_chat\\task_chat\\Controllers\\StanzaController.cs",
+              "RelativeDocumentMoniker": "task_chat\\Controllers\\StanzaController.cs",
+              "ToolTip": "C:\\Users\\Andrea\\source\\repos\\task_chat\\task_chat\\Controllers\\StanzaController.cs",
+              "RelativeToolTip": "task_chat\\Controllers\\StanzaController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T08:52:45.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Andrea\\source\\repos\\task_chat\\task_chat\\Models\\UserLogin.cs",
+              "RelativeDocumentMoniker": "task_chat\\Models\\UserLogin.cs",
+              "ToolTip": "C:\\Users\\Andrea\\source\\repos\\task_chat\\task_chat\\Models\\UserLogin.cs",
+              "RelativeToolTip": "task_chat\\Models\\UserLogin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T14:05:24.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MessaggioController.cs",
+              "DocumentMoniker": "C:\\Users\\Andrea\\source\\repos\\task_chat\\task_chat\\Controllers\\MessaggioController.cs",
+              "RelativeDocumentMoniker": "task_chat\\Controllers\\MessaggioController.cs",
+              "ToolTip": "C:\\Users\\Andrea\\source\\repos\\task_chat\\task_chat\\Controllers\\MessaggioController.cs",
+              "RelativeToolTip": "task_chat\\Controllers\\MessaggioController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T10:39:23.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UtenteController.cs",
+              "DocumentMoniker": "C:\\Users\\Andrea\\source\\repos\\task_chat\\task_chat\\Controllers\\UtenteController.cs",
+              "RelativeDocumentMoniker": "task_chat\\Controllers\\UtenteController.cs",
+              "ToolTip": "C:\\Users\\Andrea\\source\\repos\\task_chat\\task_chat\\Controllers\\UtenteController.cs",
+              "RelativeToolTip": "task_chat\\Controllers\\UtenteController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T20:01:53.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Andrea\\source\\repos\\task_chat\\task_chat\\appsettings.json",
+              "RelativeDocumentMoniker": "task_chat\\appsettings.json",
+              "ToolTip": "C:\\Users\\Andrea\\source\\repos\\task_chat\\task_chat\\appsettings.json",
+              "RelativeToolTip": "task_chat\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-02T08:45:09.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Risposta.cs",
+              "DocumentMoniker": "C:\\Users\\Andrea\\source\\repos\\task_chat\\task_chat\\Utils\\Risposta.cs",
+              "RelativeDocumentMoniker": "task_chat\\Utils\\Risposta.cs",
+              "ToolTip": "C:\\Users\\Andrea\\source\\repos\\task_chat\\task_chat\\Utils\\Risposta.cs",
+              "RelativeToolTip": "task_chat\\Utils\\Risposta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T20:04:39.786Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

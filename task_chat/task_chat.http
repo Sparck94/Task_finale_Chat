@@ -1,0 +1,6 @@
+@task_chat_HostAddress = http://localhost:5037
+
+GET {{task_chat_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
